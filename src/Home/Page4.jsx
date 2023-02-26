@@ -13,10 +13,10 @@ export default function Page4() {
         type="bottom"
       >
         <h2 key="h2">
-          微小 · 确定 · 幸福
+          Need more???
         </h2>
         <p key="p">
-          这是一套致力于提升『用户』和『设计者』使用体验的中后台设计语言。
+          We have our nearby places detector (Beta) from the location that you would like to see...
         </p>
       </QueueAnim>
       <TweenOne
