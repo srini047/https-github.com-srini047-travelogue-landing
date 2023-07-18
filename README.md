@@ -1,21 +1,16 @@
-### ant design 2.x
+## Inspiration
+First time working on a travel hack.
 
-ant design 2.x 里的 landing page. 
+## What it does
+- For tourists: Your needs are fulfilled through our platform with the help of verified guides...
+- For guides: Showcase your profile and connect with the tourists...
+- For enthusiasts: Just let us know the location you will get to know a lot about it...
 
-脚手架使用的是： [antd-init](https://github.com/ant-design/antd-init);
+## How I built it
+- Frontend: React.js, Material UI
+- Backend: MongoDB, Twilio, Cohere, Express.js, Node.js
+- Authentication: Twilio (beta)
+- Landing: Reacr.js, Ant design
 
-## preview
-
-https://ant-motion.github.io/ant-design-2.x-landing-page/
-
-
-## install
-```
-$ npm i 
-```
-
-## Development
-
-```
-$ npm start
-```
+## Challenges I ran into
+- MongoDB DNS problem overcome through Stackoverflow thread
